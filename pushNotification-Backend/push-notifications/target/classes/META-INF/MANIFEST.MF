@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: tbc-fcm-push-notifications
+Implementation-Version: 1.0.0-SNAPSHOT
+Built-By: Archit
+Implementation-Vendor-Id: org.simplymequeeny.tbc
+Build-Jdk: 1.8.0_192
+Implementation-URL: http://projects.spring.io/spring-boot/tbc-fcm-push
+ -notifications/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
