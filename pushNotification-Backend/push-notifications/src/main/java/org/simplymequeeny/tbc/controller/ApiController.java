@@ -34,7 +34,7 @@ public class ApiController {
         try {
             // TODO call api service
             JSONObject body = new JSONObject();
-            body.put("to", "/topics/colio");
+            body.put("to", "/topics/TOPIC_HERE");
             body.put("priority", "high");
 
             JSONObject notification = new JSONObject();
