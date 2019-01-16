@@ -7,6 +7,8 @@ Two Seperate folders
   https://github.com/simplymequeeny/fcm-push-notification - Backend Alternative Source 
   
   FrontEnd - Android Studio Main App Files
+  
+  In front end each file name specifies that what to do with that file data.
 
 
   Make project in Firebase copy google-services json file into android project folder.
