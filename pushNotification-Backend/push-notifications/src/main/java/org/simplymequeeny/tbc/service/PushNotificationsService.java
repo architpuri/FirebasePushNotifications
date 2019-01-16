@@ -11,7 +11,7 @@ import java.util.concurrent.CompletableFuture;
 
 @Service
 public class PushNotificationsService {
-    private static final String FIREBASE_SERVER_KEY ="AAAApZuusvM:APA91bGiwTLZpgr94L_1H-5aesLZQ4siz2V9W9suc0daeoPxaRxSsdxTm0CFyXY2O-mpbUQKVjLxO_pU9-oyIObgtzIYG-ztywTfzMiiOy7qR_retTUpCuAofwVnLHFgpCwvoKkfgVyWtD8BjgVNw8yC223UwYhERA";
+    private static final String FIREBASE_SERVER_KEY ="";
     private static final String FIREBASE_API_URL = "https://fcm.googleapis.com/fcm/send";
 
     @Async
